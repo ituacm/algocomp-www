@@ -93,7 +93,7 @@ export default function Homepage() {
     }, []);
 
     return (
-        <section 
+        <section
             ref={homepageRef}
             className={`full-page ${styles['homepage']}`}
             id="homepage"
@@ -116,7 +116,7 @@ export default function Homepage() {
                     >
                         Detaylı Bilgi
                     </button>
-                    <button 
+                    <button
                         className="rounded-acm-button"
                         onClick={() => window.open(import.meta.env.VITE_PUBLIC_REGISTRATION_LINK, '_blank')}
                     >

@@ -35,13 +35,15 @@ header {
 }
 
 
-@media (max-width: 1080px) {
-    .wide-screen-button {
-        display: none;
-    }
+@media (max-width: 67.5rem) {
+    .wide-screen-button { display: none; }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 18.5rem) {
+    .rigth-button { display: none; }
+}
+
+@media (max-width: 60rem) {
     header {
         display: flex;
         margin: 0; width: 100%;
@@ -50,12 +52,10 @@ header {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50rem) {
     .buttons { display: none }
 }
 
-@media (max-width: 384px) {
-    header {
-        font-size: .8em;
-    }
+@media (max-width: 24rem) {
+    header { font-size: .8em; }
 }

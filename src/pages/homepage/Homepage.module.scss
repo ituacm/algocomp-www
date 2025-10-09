@@ -7,6 +7,7 @@
 }
 
 .center {
+    padding: .125em;
     display: flex;
     flex-direction: column; gap: 1.5em;
     align-items: center;
@@ -17,7 +18,7 @@
     }
 
     & > span {
-        font-size: 1.25em;
+        text-align: center; font-size: 1.25em;
         opacity: .75;
     }
 
@@ -95,11 +96,11 @@
 }
 
 
-@media (max-width: 750px) {
+@media (max-width: 45rem) {
     .glare2 { display: none; }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 37.5rem) {
     .sponsors > div { 
         padding-left: 0; padding-right: 0;
     }

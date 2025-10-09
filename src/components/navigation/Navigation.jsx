@@ -37,7 +37,7 @@ export default function Navigation() {
                 <a href="/#faq">SSS</a>
             </div>
             <div className={styles['rigth-button']}>
-                <button 
+                <button
                     className="rounded-acm-button"
                     onClick={() => window.open(import.meta.env.VITE_REGISTRATION_LINK, '_blank')}
                 >

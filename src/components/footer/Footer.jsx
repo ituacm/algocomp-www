@@ -23,17 +23,17 @@ export default function Footer() {
                 </a>
             </div>
             <div className={styles['footer']}>
-                <span> 
+                <span>
                     Copyright © 2025 ITU ACM
-                </span> 
+                </span>
                 <div>
                     <a className={styles['source']} href="https://github.com/ituacm/algocomp-www" target="_blank">
-                        Kaynak Kodları 
+                        Kaynak Kodları
                     </a>
                     <a href="/kvkk.html">
                         KVKK
                     </a>
-                    <a href="https://opensource.org/license/mit" target="_blank">
+                    <a className={styles['mit-license']} href="https://opensource.org/license/mit" target="_blank">
                         The MIT License
                     </a>
                 </div>
