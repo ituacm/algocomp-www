@@ -7,21 +7,21 @@ export default function Timeline() {
         <section id="timeline" className={styles['timeline']}>
             <h2>Zaman Çizelgesi</h2>
             <Header>Kayıtlar</Header>
-            <ListItem time="22 Mart 12.30">
+            <ListItem time="25 Ekim 11.30">
                 algoComp'25 için son başvuru tarihi.
             </ListItem>
             <Header>Ön eleme süreci</Header>
-            <ListItem time="22 Mart 10.30">
+            <ListItem time="25 Ekim 10.00">
                 Kick-off ve practice session.
             </ListItem>
-            <ListItem time="22 Mart 13.00 - 23.59">
+            <ListItem time="25 Ekim 12.00 - 23.59">
                 Online ön eleme etabı.
             </ListItem>
-            <ListItem time="27 Mart">
+            <ListItem time="1 Kasım">
                 Resmî ön eleme sonuçlarının açıklanması.
             </ListItem>
             <Header>Final süreci</Header>
-            <ListItem time="6 Nisan 11.30 - 17.30 ">
+            <ListItem time="15 Kasım 18.00 - 16 Kasım 10.00 ">
                 Yüz yüze final etabı.
             </ListItem>
             <Header>Son</Header>

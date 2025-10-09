@@ -3,7 +3,6 @@ import { useEffect, useRef } from 'react'
 import Glow from '../../components/glow/Glow.jsx'
 import styles from './Homepage.module.scss'
 
-
 export default function Homepage() {
     const canvasRef = useRef(null);
     const homepageRef = useRef(null);
@@ -108,8 +107,8 @@ export default function Homepage() {
             <div>{/* intentionally left blank to center following div */}</div>
 
             <div className={styles['center']}>
-                <img src="/img/svg/logo-full-glow.svg" />
-                <span>Kayıtlar 22 Mart'a kadar açık!</span>
+                <img src="/img/svg/logo-full.svg" />
+                <span>Kayıtlar 25 Ekim'e kadar açık!</span>
                 <div className={styles['buttons']}>
                     <button
                         className="rounded-button"
@@ -119,7 +118,7 @@ export default function Homepage() {
                     </button>
                     <button 
                         className="rounded-acm-button"
-                        onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSdpULHQVWZxO-Da6K7Q2vTESoi7lSJgqIN_7OfYjSFSp2eBMw/viewform', '_blank')}
+                        onClick={() => window.open(import.meta.env.VITE_PUBLIC_REGISTRATION_LINK, '_blank')}
                     >
                         Kayıt
                     </button>
@@ -129,7 +128,6 @@ export default function Homepage() {
             <div className={styles['sponsors']}>
                 <span>Sponsorlar</span>
                 <div>
-                    <img src="/img/svg/paribuhub-logo.svg" />
                     <img src="/img/svg/algoleague-logo.png" />
                 </div>
             </div>

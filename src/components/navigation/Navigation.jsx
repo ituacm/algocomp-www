@@ -39,7 +39,7 @@ export default function Navigation() {
             <div className={styles['rigth-button']}>
                 <button 
                     className="rounded-acm-button"
-                    onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSdpULHQVWZxO-Da6K7Q2vTESoi7lSJgqIN_7OfYjSFSp2eBMw/viewform', '_blank')}
+                    onClick={() => window.open(import.meta.env.VITE_REGISTRATION_LINK, '_blank')}
                 >
                     Kayıt
                 </button>
