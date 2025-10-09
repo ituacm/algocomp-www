@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #048acb;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="50" width="50" height="50"/>
+  <rect class="cls-1" y="100" width="150" height="50"/>
+  <rect class="cls-1" x="100" y="50" width="50" height="50"/>
+</svg>

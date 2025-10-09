@@ -11,15 +11,15 @@ export default function Format() {
                     oluşmaktadır.
                     <br />
                     <br />
-                    22 Mart tarihinde düzenlenecek olan ön eleme aşamasında
-                    yarışmacıların 11 saatte 7-10 adet algoritma sorusuna çözüm
+                    25 Ekim tarihinde düzenlenecek olan ön eleme aşamasında
+                    yarışmacıların 12 saatte 7-10 adet algoritma sorusuna çözüm
                     bulmaları gerekmektedir. En kısa sürede en çok puan
                     toplayan 15 takım finalist olmaya hak kazanacaktır.
                     <br />
                     <br />
-                    6 Nisan 2025 tarihinde düzenlenecek olan final etabında
-                    ise yarışmacıların ön eleme etabından daha zorlayıcı 8-11
-                    algoritma sorusuna 5 saat içerisinde çözüm bulmaları
+                    15 Kasım 2025 tarihinde düzenlenecek olan final etabında
+                    ise yarışmacıların ön eleme etabından daha zorlayıcı 15-25 adet
+                    algoritma sorusuna 16 saat içerisinde çözüm bulmaları
                     gerekmektedir. En çok puan toplayan 5 takım büyük ödüllerin
                     sahibi olacaktır.
                 </div>
@@ -28,7 +28,7 @@ export default function Format() {
                 <h3>Katılım Kuralları</h3>
                 <ul>
                     <li>
-                        Başvurular 22 Mart 2025 tarihine kadar yapılmalıdır,
+                        Başvurular 25 Ekim 2025 tarihine kadar yapılmalıdır,
                         bu tarihten sonra başvuru alınmayacaktır ve yarışmacı
                         kayıtları sonlandırılacaktır.
                     </li>

@@ -26,8 +26,8 @@ export default function Faq() {
                         Takımlar en fazla 3 kişi olmalıdır.
                     </Question>
                     <Question title="Nasıl takım halinde başvuru yapabiliriz?">
-                        <a 
-                            href="https://algoleague.com/contest/algocomp25-qualification-round/description" 
+                        <a
+                            href="https://algoleague.com/contest/algocomp25-qualification-round/description"
                             target="_blank"
                         >
                             Bu link
@@ -42,20 +42,20 @@ export default function Faq() {
                         editorial'ını yazdığımız arşive <a href="https://github.com/ituacm/ITU-ACM-AlgoTeam">buradan</a> erişebilirsiniz.
                     </Question>
                     <Question title="Etkinlik nerede yapılacak?">
-                        Etkinliğimiz ön elemede çevrim içi olarak algoleague
+                        Etkinliğimiz ön elemede çevrimiçi olarak algoleague
                         platformu üzerinden gerçekleştirilecektir. Final etabı
-                        İstanbul'da, İTÜ Bilgisayar Bilişim Fakültesinde
+                        İstanbul'da, İTÜ Ayazağa Kampüsü içerisinde MekanSAL'da
                         yüzyüze gerçekleşecektir!
                     </Question>
                     <Question title="Katılımcılar birden fazla takımda yer alabilir mi?">
                         Hayır, her katılımcı sadece bir takımda yer almalıdır.
                     </Question>
                     <Question title="Hangi takımlar ödül almaya hak kazanacak?">
-                        Final etabı sonunda ilk 6 takım büyük ödüllerin sahibi
+                        Final etabı sonunda ilk 3 takım büyük ödüllerin sahibi
                         olacaktır.
                     </Question>
                     <Question title="Ödüller nasıl teslim edilecek?">
-                        Yarışma sonunda belirlenecek ilk beş takım ödüllerini
+                        Yarışma sonunda belirlenecek ilk 3 takım ödüllerini
                         Amazon Hediye çeki olarak alacaktır.
                     </Question>
                 </div>
