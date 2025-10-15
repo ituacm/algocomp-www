@@ -118,7 +118,7 @@ export default function Homepage() {
                     </button>
                     <button
                         className="rounded-acm-button"
-                        onClick={() => window.open(import.meta.env.VITE_PUBLIC_REGISTRATION_LINK, '_blank')}
+                        onClick={() => window.open(import.meta.env.VITE_REGISTRATION_LINK, '_blank')}
                     >
                         Kayıt
                     </button>
