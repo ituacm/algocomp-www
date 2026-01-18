@@ -7,17 +7,17 @@ export default function Format() {
             <div>
                 <h3>Yarışma Formatı</h3>
                 <div>
-                    algoComp’25 ön eleme ve final olmak üzere iki etaptan
+                    algoComp’26 ön eleme ve final olmak üzere iki etaptan
                     oluşmaktadır.
                     <br />
                     <br />
-                    25 Ekim tarihinde düzenlenecek olan ön eleme aşamasında
-                    yarışmacıların 12 saatte 7-10 adet algoritma sorusuna çözüm
+                    7 Şubat tarihinde düzenlenecek olan ön eleme aşamasında
+                    yarışmacıların 12 saatte 10-12 adet algoritma sorusuna çözüm
                     bulmaları gerekmektedir. En kısa sürede en çok puan
                     toplayan 15 takım finalist olmaya hak kazanacaktır.
                     <br />
                     <br />
-                    15 Kasım 2025 tarihinde düzenlenecek olan final etabında
+                    22-23 Şubat 2026 tarihinde düzenlenecek olan final etabında
                     ise yarışmacıların ön eleme etabından daha zorlayıcı 15-25 adet
                     algoritma sorusuna 16 saat içerisinde çözüm bulmaları
                     gerekmektedir. En çok puan toplayan 5 takım büyük ödüllerin
@@ -28,7 +28,7 @@ export default function Format() {
                 <h3>Katılım Kuralları</h3>
                 <ul>
                     <li>
-                        Başvurular 25 Ekim 2025 tarihine kadar yapılmalıdır,
+                        Başvurular 7 Şubat 2026 tarihine kadar yapılmalıdır,
                         bu tarihten sonra başvuru alınmayacaktır ve yarışmacı
                         kayıtları sonlandırılacaktır.
                     </li>

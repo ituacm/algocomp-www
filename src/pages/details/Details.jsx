@@ -11,7 +11,7 @@ export default function Details() {
                 </h2>
                 <div className={styles['text']}>
                     Türkiye’nin dört bir yanından öğrencileri bir araya getiren
-                    algoComp’25, ITU ACM Student Chapter tarafından düzenlenen
+                    algoComp’26, ITU ACM Student Chapter tarafından düzenlenen
                     prestijli bir algoritma yarışmasıdır. Katılımcılar,
                     karmaşık problemleri hızla analiz ederek en verimli ve
                     optimize çözümleri üretmeye çalışırlar.

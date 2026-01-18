@@ -44,14 +44,14 @@ export default function Faq() {
                     <Question title="Etkinlik nerede yapılacak?">
                         Etkinliğimiz ön elemede çevrimiçi olarak algoleague
                         platformu üzerinden gerçekleştirilecektir. Final etabı
-                        İstanbul'da, İTÜ Ayazağa Kampüsü içerisinde MekanSAL'da
+                        İstanbul'da, İTÜ Ayazağa Kampüsü içerisinde
                         yüzyüze gerçekleşecektir!
                     </Question>
                     <Question title="Katılımcılar birden fazla takımda yer alabilir mi?">
                         Hayır, her katılımcı sadece bir takımda yer almalıdır.
                     </Question>
                     <Question title="Hangi takımlar ödül almaya hak kazanacak?">
-                        Final etabı sonunda ilk 3 takım büyük ödüllerin sahibi
+                        Final etabı sonunda ilk 5 takım büyük ödüllerin sahibi
                         olacaktır.
                     </Question>
                     <Question title="Ödüller nasıl teslim edilecek?">

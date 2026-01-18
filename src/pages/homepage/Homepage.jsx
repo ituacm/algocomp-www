@@ -108,7 +108,7 @@ export default function Homepage() {
 
             <div className={styles['center']}>
                 <img src="/img/svg/logo-full.svg" />
-                <span>Kayıtlar 25 Ekim'e kadar açık!</span>
+                <span>Kayıtlar 7 Şubat'a kadar açık!</span>
                 <div className={styles['buttons']}>
                     <button
                         className="rounded-button"
