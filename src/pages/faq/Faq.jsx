@@ -27,7 +27,7 @@ export default function Faq() {
                     </Question>
                     <Question title="Nasıl takım halinde başvuru yapabiliriz?">
                         <a
-                            href="https://algoleague.com/contest/algocomp25-qualification-round/description"
+                            href="https://algoleague.com/contest/algocomp26-qualification-round/description"
                             target="_blank"
                         >
                             Bu link
@@ -55,7 +55,7 @@ export default function Faq() {
                         olacaktır.
                     </Question>
                     <Question title="Ödüller nasıl teslim edilecek?">
-                        Yarışma sonunda belirlenecek ilk 3 takım ödüllerini
+                        Yarışma sonunda belirlenecek ilk 5 takım ödüllerini
                         Amazon Hediye çeki olarak alacaktır.
                     </Question>
                 </div>
